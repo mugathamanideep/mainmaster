@@ -1,2 +1,5 @@
 this has been modified
-conflict2
+
+conflict
+confilct
+
